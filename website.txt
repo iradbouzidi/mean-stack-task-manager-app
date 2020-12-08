@@ -1,0 +1,5 @@
+Back-End:
+https://mean-task-manager-app-irad.herokuapp.com/
+
+Front-End:
+https://mean-task-manager-app-irad.netlify.app/
